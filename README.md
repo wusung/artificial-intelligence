@@ -1,4 +1,4 @@
-# artificial-intelligence
+# 人工智慧 Artificial Intelligence 資源
 
 - [Machine Learning HW0](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
 - [Practical Deep Reinforcement Learning
@@ -19,7 +19,7 @@ http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
 http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
 https://ckmarkoh.github.io/
 
-吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容
+[吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容](https://buzzorange.com/techorange/2017/08/10/try-out-deeplearning-ai/)
 
 https://zhuanlan.zhihu.com/gluon
 https://v.douyu.com/author/QR7Wlz2XmwyK
