@@ -4,3 +4,53 @@
 - [Practical Deep Reinforcement Learning
 ](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
+
+http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg
+http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+http://www.books.com.tw/products/0010722761
+http://course.fast.ai
+https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
+http://www.infoq.com/cn/articles/docker-lead-test-innovation
+https://mmikowski.github.io/the_lie/
+https://www.stockfeel.com.tw/%E5%BC%95%E7%88%86%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9D%A9%E5%91%BD%EF%BC%9A%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97/
+https://m.youtube.com/watch?v=dgt6IfEXgDk
+
+http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
+http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
+https://ckmarkoh.github.io/
+
+吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容
+
+https://zhuanlan.zhihu.com/gluon
+https://v.douyu.com/author/QR7Wlz2XmwyK
+
+機器學習
+机器学习知识体系（强烈推荐）
+Machine Learning: Python 機器學習：使­用Pytho­n
+2016 前 20 大 Python 機器學習開源項目：排行榜大刷新，Scikit-learn 穩坐龍頭寶座
+【教程】七步精通Python机器学习
+https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
+
+http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421
+https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/
+
+http://course.fast.ai/start.html
+https://www.kaggle.com/
+http://www.gitxiv.com
+
+要学好这门课程，并且推荐David C. Lay这本《线性代数及其应用》和Gilbert Strang的公开课《线性代数》
+
+
+附資源與完整指導！帶你從零開始掌握 Python 機器學習
+动手学深度学习
+機器學習演算法 - 線性回歸與邏輯回歸
+從學生到職場：菜鳥資料科學家的第一個月
+
+http://bangqu.com/6hGad4.html
+
+https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html
+https://github.com/kailashahirwar/cheatsheets-ai
+
+
