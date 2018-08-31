@@ -37,6 +37,10 @@ https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-i
 
 http://course.fast.ai/start.html
 https://www.kaggle.com/
+
+
+https://github.com/MachineLearning100
+
 http://www.gitxiv.com
 
 要学好这门课程，并且推荐David C. Lay这本《线性代数及其应用》和Gilbert Strang的公开课《线性代数》
