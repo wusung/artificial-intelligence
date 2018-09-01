@@ -39,7 +39,7 @@ http://course.fast.ai/start.html
 https://www.kaggle.com/
 
 
-https://github.com/MachineLearning100
+[MachineLearning100](https://github.com/MachineLearning100)
 
 http://www.gitxiv.com
 
