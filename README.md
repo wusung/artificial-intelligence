@@ -17,12 +17,14 @@ https://m.youtube.com/watch?v=dgt6IfEXgDk
 
 http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
 http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
-https://ckmarkoh.github.io/
+
+[Torch NN Tutorial 6 : Backward Propagation ( Part 3 : nn.Module )](https://ckmarkoh.github.io/)
 
 [吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容](https://buzzorange.com/techorange/2017/08/10/try-out-deeplearning-ai/)
 
-https://zhuanlan.zhihu.com/gluon
-https://v.douyu.com/author/QR7Wlz2XmwyK
+- [使用MXNet/Gluon来动手学深度学习](https://zhuanlan.zhihu.com/gluon)
+
+- [微软亚洲研究院胡瀚：图像识别中的非网格化网络](https://v.douyu.com/author/QR7Wlz2XmwyK)
 
 機器學習
 机器学习知识体系（强烈推荐）
@@ -32,16 +34,18 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
 https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
 
-http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421
-https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/
+- [【深度学习下一大突破】吴恩达对话 Hinton、Bengio、Goodfellow（视频）](http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421)
+
+- [附資源與完整指導！帶你從零開始掌握 Python 機器學習](https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/)
 
 http://course.fast.ai/start.html
+
 https://www.kaggle.com/
 
 
-[MachineLearning100](https://github.com/MachineLearning100)
+- [MachineLearning100](https://github.com/MachineLearning100)
 
-http://www.gitxiv.com
+- [GitXiv](http://www.gitxiv.com)
 
 要学好这门课程，并且推荐David C. Lay这本《线性代数及其应用》和Gilbert Strang的公开课《线性代数》
 
@@ -51,10 +55,10 @@ http://www.gitxiv.com
 機器學習演算法 - 線性回歸與邏輯回歸
 從學生到職場：菜鳥資料科學家的第一個月
 
-[做AI必須要知道的十種深度學習方法](http://bangqu.com/6hGad4.html)
+- [做AI必須要知道的十種深度學習方法](http://bangqu.com/6hGad4.html)
 
-[Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
-[Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
+- [Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
 
-[cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
