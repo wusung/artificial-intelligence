@@ -51,10 +51,10 @@ http://www.gitxiv.com
 機器學習演算法 - 線性回歸與邏輯回歸
 從學生到職場：菜鳥資料科學家的第一個月
 
-http://bangqu.com/6hGad4.html
+[做AI必須要知道的十種深度學習方法](http://bangqu.com/6hGad4.html)
 
-https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
-http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html
-https://github.com/kailashahirwar/cheatsheets-ai
+[Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 
+[Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
 
+[cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
