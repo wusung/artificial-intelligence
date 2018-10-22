@@ -42,6 +42,7 @@ http://course.fast.ai/start.html
 
 https://www.kaggle.com/
 
+- [牛津大學開放機器學習與深度學習教材](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 - [MachineLearning100](https://github.com/MachineLearning100)
 
