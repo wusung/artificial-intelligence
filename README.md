@@ -63,3 +63,5 @@ https://www.kaggle.com/
 - [Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
 
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+
+- [腾讯AI Lab开源大规模高质量中文词向量数据，800万中文词随你用](https://ai.tencent.com/ailab/zh/news/detial/?id=22)
