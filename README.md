@@ -65,3 +65,6 @@ https://www.kaggle.com/
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 
 - [腾讯AI Lab开源大规模高质量中文词向量数据，800万中文词随你用](https://ai.tencent.com/ailab/zh/news/detial/?id=22)
+
+- [https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
+
