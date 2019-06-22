@@ -6,7 +6,7 @@
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
 - [我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg)
 - [机器学习的数学基础：向量篇](http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- http://course.fast.ai
+- [Practical Deep Learning for Coders, v3](http://course.fast.ai)
 - https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
 - http://www.infoq.com/cn/articles/docker-lead-test-innovation
 - https://mmikowski.github.io/the_lie/
@@ -26,19 +26,12 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 【教程】七步精通Python机器学习
 - https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
 - https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
-
 - [【深度学习下一大突破】吴恩达对话 Hinton、Bengio、Goodfellow（视频）](http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421)
-
 - [附資源與完整指導！帶你從零開始掌握 Python 機器學習](https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/)
-
 - http://course.fast.ai/start.html
-
 - https://www.kaggle.com/
-
 - [牛津大學開放機器學習與深度學習教材](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-
 - [MachineLearning100](https://github.com/MachineLearning100)
-
 - [GitXiv](http://www.gitxiv.com)
 
 要学好这门课程，并且推荐David C. Lay这本《线性代数及其应用》和Gilbert Strang的公开课《线性代数》
@@ -50,17 +43,11 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 從學生到職場：菜鳥資料科學家的第一個月
 
 - [做AI必須要知道的十種深度學習方法](http://bangqu.com/6hGad4.html)
-
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
-
 - [Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
-
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
-
 - [腾讯AI Lab开源大规模高质量中文词向量数据，800万中文词随你用](https://ai.tencent.com/ailab/zh/news/detial/?id=22)
-
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
-
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
 
 
