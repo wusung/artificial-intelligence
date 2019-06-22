@@ -4,16 +4,15 @@
 - [Practical Deep Reinforcement Learning
 ](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
-
-http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg
-http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-http://www.books.com.tw/products/0010722761
-http://course.fast.ai
-https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
-http://www.infoq.com/cn/articles/docker-lead-test-innovation
-https://mmikowski.github.io/the_lie/
-https://www.stockfeel.com.tw/%E5%BC%95%E7%88%86%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9D%A9%E5%91%BD%EF%BC%9A%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97/
-https://m.youtube.com/watch?v=dgt6IfEXgDk
+- http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg
+- http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- http://www.books.com.tw/products/0010722761
+- http://course.fast.ai
+- https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
+- http://www.infoq.com/cn/articles/docker-lead-test-innovation
+- https://mmikowski.github.io/the_lie/
+- https://www.stockfeel.com.tw/%E5%BC%95%E7%88%86%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9D%A9%E5%91%BD%EF%BC%9A%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97/
+- https://m.youtube.com/watch?v=dgt6IfEXgDk
 
 http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
 http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
@@ -31,16 +30,16 @@ http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
 Machine Learning: Python 機器學習：使­用Pytho­n
 2016 前 20 大 Python 機器學習開源項目：排行榜大刷新，Scikit-learn 穩坐龍頭寶座
 【教程】七步精通Python机器学习
-https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
-https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
+- https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
+- https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
 
 - [【深度学习下一大突破】吴恩达对话 Hinton、Bengio、Goodfellow（视频）](http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421)
 
 - [附資源與完整指導！帶你從零開始掌握 Python 機器學習](https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/)
 
-http://course.fast.ai/start.html
+- http://course.fast.ai/start.html
 
-https://www.kaggle.com/
+- https://www.kaggle.com/
 
 - [牛津大學開放機器學習與深度學習教材](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
