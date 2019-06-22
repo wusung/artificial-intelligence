@@ -6,7 +6,6 @@
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
 - [我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg)
 - [机器学习的数学基础：向量篇](http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- http://www.books.com.tw/products/0010722761
 - http://course.fast.ai
 - https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
 - http://www.infoq.com/cn/articles/docker-lead-test-innovation
@@ -63,3 +62,8 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
 
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
+
+
+Books
+- [大演算：機器學習的終極演算法將如何改變我們的未來，創造新紀元的文明？](http://www.books.com.tw/products/0010722761)
+
