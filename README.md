@@ -5,7 +5,7 @@
 ](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
 - [我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg)
-- http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+- [机器学习的数学基础：向量篇](http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - http://www.books.com.tw/products/0010722761
 - http://course.fast.ai
 - https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
