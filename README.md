@@ -7,7 +7,8 @@
 - [我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg)
 - [机器学习的数学基础：向量篇](http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai)
-- https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4
+- [How to choose between Agile and Lean, Scrum and Kanban — which methodology is the best?
+](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4)
 - [引爆資料中心革命：雲端運算](https://www.stockfeel.com.tw/%E5%BC%95%E7%88%86%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9D%A9%E5%91%BD%EF%BC%9A%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97/)
 - https://m.youtube.com/watch?v=dgt6IfEXgDk
 - http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
