@@ -15,13 +15,9 @@
 - https://m.youtube.com/watch?v=dgt6IfEXgDk
 - http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
 - http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
-
-[Torch NN Tutorial 6 : Backward Propagation ( Part 3 : nn.Module )](https://ckmarkoh.github.io/)
-
-[吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容](https://buzzorange.com/techorange/2017/08/10/try-out-deeplearning-ai/)
-
+- [Torch NN Tutorial 6 : Backward Propagation ( Part 3 : nn.Module )](https://ckmarkoh.github.io/)
+- [吳恩達人工智慧課程 最新評測！帶你一窺上課時數、作業專案內容](https://buzzorange.com/techorange/2017/08/10/try-out-deeplearning-ai/)
 - [使用MXNet/Gluon来动手学深度学习](https://zhuanlan.zhihu.com/gluon)
-
 - [微软亚洲研究院胡瀚：图像识别中的非网格化网络](https://v.douyu.com/author/QR7Wlz2XmwyK)
 
 機器學習
