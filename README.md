@@ -68,3 +68,4 @@ https://www.kaggle.com/
 
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
 
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
