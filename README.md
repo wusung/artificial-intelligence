@@ -50,6 +50,9 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
 
 
-Books
+### Books
 - [大演算：機器學習的終極演算法將如何改變我們的未來，創造新紀元的文明？](http://www.books.com.tw/products/0010722761)
 
+
+### Machine Learning Algorithms
+- [Machine Learning Algorithms For Beginners with Code Examples in Python](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
