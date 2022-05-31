@@ -18,6 +18,7 @@
 - [使用MXNet/Gluon来动手学深度学习](https://zhuanlan.zhihu.com/gluon)
 - [微软亚洲研究院胡瀚：图像识别中的非网格化网络](https://v.douyu.com/author/QR7Wlz2XmwyK)
 - [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 
 機器學習
 机器学习知识体系（强烈推荐）
