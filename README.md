@@ -62,3 +62,4 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 ### Framework
 - [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
 - [2022年了，PyTorch和TensorFlow你选哪个？](https://blog.csdn.net/cainiao_python/article/details/122053331)
+- [机器学习社区-专注分享学术论文、机器学习、人工智能、Python](https://www.zhihu.com/column/c_1320399205467795456)
