@@ -57,3 +57,7 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 
 ### Machine Learning Algorithms
 - [Machine Learning Algorithms For Beginners with Code Examples in Python](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
+
+
+### Framework
+- [“史上最全PyTorch资源汇总”：教程、实战、必读论文、中文教材一应俱全](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
