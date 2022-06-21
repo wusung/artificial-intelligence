@@ -1,16 +1,14 @@
 # 人工智慧 Artificial Intelligence 資源
 
 - [Machine Learning HW0](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
-- [Practical Deep Reinforcement Learning
-](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
+- [Practical Deep Reinforcement Learning](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
 - [我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg)
 - [机器学习的数学基础：向量篇](http://hahack.com/math/math-vector/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai)
-- [How to choose between Agile and Lean, Scrum and Kanban — which methodology is the best?
-](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4)
+- [How to choose between Agile and Lean, Scrum and Kanban — which methodology is the best?](https://realtimeboard.com/blog/choose-between-agile-lean-scrum-kanban/#.WK1Vrxhh2V4)
 - [引爆資料中心革命：雲端運算](https://www.stockfeel.com.tw/%E5%BC%95%E7%88%86%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9D%A9%E5%91%BD%EF%BC%9A%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97/)
-- https://m.youtube.com/watch?v=dgt6IfEXgDk
+- [CS50 2016 - Week 7 - Machine Learning - YouTube](https://www.youtube.com/watch?app=desktop&v=dgt6IfEXgDk)
 - http://chur.chu.edu.tw/bitstream/987654321/2861/1/G0088038990.pdf
 - http://chur.chu.edu.tw/bitstream/987654321/2858/1/G0088038780.pdf
 - [Torch NN Tutorial 6 : Backward Propagation ( Part 3 : nn.Module )](https://ckmarkoh.github.io/)
@@ -19,30 +17,19 @@
 - [微软亚洲研究院胡瀚：图像识别中的非网格化网络](https://v.douyu.com/author/QR7Wlz2XmwyK)
 - [Automated Machine Learning](https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book.pdf)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-
-機器學習
-机器学习知识体系（强烈推荐）
-Machine Learning: Python 機器學習：使­用Pytho­n
-2016 前 20 大 Python 機器學習開源項目：排行榜大刷新，Scikit-learn 穩坐龍頭寶座
-【教程】七步精通Python机器学习
-- https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49
-- https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop
+- [SofaSofa-数据科学社区](http://sofasofa.io/index.php)
+- [機器學習、深度學習、資料科學、人工智慧的 22 個線上社群. 想學機器學習、深度學習、資料科學、人工智慧的人照過來！ 22… | by elsalin | 弱弱開發女子，在東京的開發者人生。 | Medium](https://medium.com/%E5%BC%B1%E5%BC%B1%E9%96%8B%E7%99%BC%E5%A5%B3%E5%AD%90-%E5%9C%A8%E6%9D%B1%E4%BA%AC%E7%9A%84%E9%96%8B%E7%99%BC%E8%80%85%E4%BA%BA%E7%94%9F/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%9A%84-22-%E5%80%8B%E7%B7%9A%E4%B8%8A%E7%A4%BE%E7%BE%A4-eb5df4ce7cb6)
+- [机器学习社区 - 知乎](https://www.zhihu.com/people/chen-xi-63-33-5)
+- [機器學習演算法 - 線性回歸與邏輯回歸 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10187739)
+- [Machine Learning (Hung-yi Lee, NTU) - YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49)
+- [ML Lecture 10: Convolutional Neural Network - YouTube](https://www.youtube.com/watch?v=FrKWiRv254g&app=desktop)
 - [【深度学习下一大突破】吴恩达对话 Hinton、Bengio、Goodfellow（视频）](http://www.sohu.com/a/163579537_473283?fref=gc&dti=1695086797480421)
 - [附資源與完整指導！帶你從零開始掌握 Python 機器學習](https://buzzorange.com/techorange/2017/08/18/learn-machine-learning-and-python-in-14-steps/)
-- http://course.fast.ai/start.html
-- https://www.kaggle.com/
+- [Practical Deep Learning for Coders | Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [牛津大學開放機器學習與深度學習教材](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [MachineLearning100](https://github.com/MachineLearning100)
 - [GitXiv](http://www.gitxiv.com)
-
-要学好这门课程，并且推荐David C. Lay这本《线性代数及其应用》和Gilbert Strang的公开课《线性代数》
-
-
-附資源與完整指導！帶你從零開始掌握 Python 機器學習
-动手学深度学习
-機器學習演算法 - 線性回歸與邏輯回歸
-從學生到職場：菜鳥資料科學家的第一個月
-
 - [做AI必須要知道的十種深度學習方法](http://bangqu.com/6hGad4.html)
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Keras深度學習(Deep Learning)卷積神經網路(CNN)辨識Cifar-10影像](http://tensorflowkeras.blogspot.tw/2017/10/kerasdeep-learningcnncifar-10.html)
@@ -58,9 +45,18 @@ Machine Learning: Python 機器學習：使­用Pytho­n
 
 ### Machine Learning Algorithms
 - [Machine Learning Algorithms For Beginners with Code Examples in Python](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
+- [称霸Kaggle的九大深度学习炼丹技巧 - 知乎](https://zhuanlan.zhihu.com/p/518189935)
 
 
 ### Framework
 - [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
-- [2022年了，PyTorch和TensorFlow你选哪个？](https://blog.csdn.net/cainiao_python/article/details/122053331)
 - [机器学习社区-专注分享学术论文、机器学习、人工智能、Python](https://www.zhihu.com/column/c_1320399205467795456)
+- [2022年了，PyTorch和TensorFlow你选哪个？](https://blog.csdn.net/cainiao_python/article/details/122053331)
+
+
+### Reference
+- [现在有哪些讨论深度学习、机器学习的论坛推荐？ - 知乎](https://www.zhihu.com/question/268499673)
+- [人工智能 - 知乎](https://www.zhihu.com/topic/19551275/hot)
+- [机器学习 - 知乎](https://www.zhihu.com/topic/19559450/hot)
+- [强烈推荐，B站最强学习资源汇总（数据科学，机器学习，python） - 知乎](https://zhuanlan.zhihu.com/p/225901714)
+- [值得推荐！这10个 Github 项目简直太香了！ - 知乎](https://zhuanlan.zhihu.com/p/466851139)
