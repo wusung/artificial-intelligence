@@ -60,3 +60,7 @@
 - [机器学习 - 知乎](https://www.zhihu.com/topic/19559450/hot)
 - [强烈推荐，B站最强学习资源汇总（数据科学，机器学习，python） - 知乎](https://zhuanlan.zhihu.com/p/225901714)
 - [值得推荐！这10个 Github 项目简直太香了！ - 知乎](https://zhuanlan.zhihu.com/p/466851139)
+
+
+### LLM
+- [](https://intro-llm.github.io/)
