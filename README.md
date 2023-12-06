@@ -63,4 +63,6 @@
 
 
 ### LLM
-- [](https://intro-llm.github.io/)
+- [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
+
+
