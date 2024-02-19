@@ -64,5 +64,5 @@
 
 ### LLM
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
-
-
+- [垂直领域大模型的思考 - 知乎](https://zhuanlan.zhihu.com/p/652645925)
+- [你必须要知道CNN模型：ResNet - 知乎](https://zhuanlan.zhihu.com/p/31852747)
