@@ -69,4 +69,5 @@
 - [AI 再次入門到進階 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20092056/ironman/6112)
 - [《與楊立昆的對話：人工智能是生命線還是地雷？》- World Governments Summit - YouTube](https://www.youtube.com/watch?v=3CvaAr72BnQ)
 - [Creating a Domain Expert LLM: A Guide to Fine-Tuning | HackerNoon](https://hackernoon.com/creating-a-domain-expert-llm-a-guide-to-fine-tuning)
-- 
+- [LLM 學習筆記 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121763/ironman/6145)
+- [[Finetuning Large Language Models ] 課程筆記- 為何要微調(Why finetune) - HackMD](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
