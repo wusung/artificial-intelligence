@@ -71,3 +71,7 @@
 - [Creating a Domain Expert LLM: A Guide to Fine-Tuning | HackerNoon](https://hackernoon.com/creating-a-domain-expert-llm-a-guide-to-fine-tuning)
 - [LLM 學習筆記 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121763/ironman/6145)
 - [[Finetuning Large Language Models ] 課程筆記- 為何要微調(Why finetune) - HackMD](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
+- [什麼是 RAG？- 擷取擴增產生說明 - AWS](https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/)
+- [什麼是檢索增強生成？ - NVIDIA 台灣官方部落格](https://blogs.nvidia.com.tw/2023/11/16/what-is-retrieval-augmented-generation/)
+- [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
+- [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
