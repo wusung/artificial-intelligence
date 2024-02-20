@@ -75,3 +75,8 @@
 - [什麼是檢索增強生成？ - NVIDIA 台灣官方部落格](https://blogs.nvidia.com.tw/2023/11/16/what-is-retrieval-augmented-generation/)
 - [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
 - [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
+
+### Application
+- [Raycast](https://www.raycast.com/)
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)
+- 
