@@ -76,6 +76,9 @@
 - [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
 - [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
 
+### Generative AI
+[(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
+
 ### Application
 - [Raycast](https://www.raycast.com/)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
