@@ -79,7 +79,10 @@
 ### Generative AI
 [(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
 
+### Transformer
+[4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
+
 ### Application
 - [Raycast](https://www.raycast.com/)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
-- 
+
