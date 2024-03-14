@@ -61,6 +61,9 @@
 - [强烈推荐，B站最强学习资源汇总（数据科学，机器学习，python） - 知乎](https://zhuanlan.zhihu.com/p/225901714)
 - [值得推荐！这10个 Github 项目简直太香了！ - 知乎](https://zhuanlan.zhihu.com/p/466851139)
 
+### Tool
+- [(1) 大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
+
 
 ### LLM
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
