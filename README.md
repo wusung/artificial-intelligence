@@ -38,7 +38,6 @@
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
 
-
 ### Books
 - [大演算：機器學習的終極演算法將如何改變我們的未來，創造新紀元的文明？](http://www.books.com.tw/products/0010722761)
 
@@ -46,6 +45,9 @@
 ### Machine Learning Algorithms
 - [Machine Learning Algorithms For Beginners with Code Examples in Python](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 - [称霸Kaggle的九大深度学习炼丹技巧 - 知乎](https://zhuanlan.zhihu.com/p/518189935)
+
+### Deep Learning
+- [Stanford University CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
 
 
 ### Framework
