@@ -81,6 +81,10 @@
 - [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
 - [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
 
+### Law LLM
+- [pengxiao-song/LaWGPT: 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LaWGPT)
+- [GOV-TW/Judicial-OD: 司法院開放資料](https://github.com/GOV-TW/Judicial-OD)
+
 ### Generative AI
 - [(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
 
