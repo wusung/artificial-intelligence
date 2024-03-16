@@ -80,10 +80,10 @@
 - [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
 
 ### Generative AI
-[(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
+- [(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
 
 ### Transformer
-[4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
+- [4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
 
 ### Application
 - [Raycast](https://www.raycast.com/)
@@ -92,6 +92,8 @@
 ### Fine Tune
 - [🦙使用自己的数据微调Llama 2 最简单方法 ，Llama 2 “烹饪”食谱，附colab完整笔记 - YouTube](https://www.youtube.com/watch?v=YtHtrkVqxD0&ab_channel=AI%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%8F%91%E7%8E%B0)
 
+
+### RAG
 
 ### Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
