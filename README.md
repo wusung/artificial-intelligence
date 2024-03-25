@@ -105,6 +105,7 @@
 - [【OLLAMA+Langchain】RAG框架详解，RAG和Ollama本地大模型应用方法分享。利用本地大模型搭建私人助理。不用Fine-tuning就能实时更新大语言模型的数据库。 - YouTube](https://www.youtube.com/watch?v=HtqmEREAPC0&ab_channel=%E7%95%85%E7%9A%84%E7%A7%91%E6%8A%80%E5%B7%A5%E5%9D%8A)
 - [详解RAG(1/2) - YouTube](https://www.youtube.com/watch?v=d5IpPF4jU5k&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
 - [详解RAG(2/2) - YouTube](https://www.youtube.com/watch?v=E09j2jcBT2w&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
+- [AnythingLLM：基于RAG方案构专属私有知识库（开源｜高效｜可定制） - 知乎](https://zhuanlan.zhihu.com/p/671853034)
 
 ### Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
