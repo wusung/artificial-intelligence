@@ -64,7 +64,7 @@
 - [值得推荐！这10个 Github 项目简直太香了！ - 知乎](https://zhuanlan.zhihu.com/p/466851139)
 
 ### Tool
-- [(1) 大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
+- [大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
 
 
 ### LLM
@@ -108,7 +108,7 @@
 ### Other
 - [clovaai/donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 - [jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
-- [Day 1 - AI時代來臨第4次工業革命開啟時代的序幕 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10314331)
+- [人生AI下半場 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20112100/ironman/6072)
 
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 ▍基礎
