@@ -100,6 +100,11 @@
 
 
 ### RAG
+- [Introduction | Ragas](https://docs.ragas.io/en/stable/index.html)
+- [提示词、RAG、微调哪个会让大模型表现更好？1、实践中如何选择微调、rag、提示词工程2、提示词工程使用方式3、RAG VS 微调 4、rag评估框架rags：rags5、微调好处及微调实践场景用例 - YouTube](https://www.youtube.com/watch?v=P1iob2uKFrg&ab_channel=AIGCLINK)
+- [【OLLAMA+Langchain】RAG框架详解，RAG和Ollama本地大模型应用方法分享。利用本地大模型搭建私人助理。不用Fine-tuning就能实时更新大语言模型的数据库。 - YouTube](https://www.youtube.com/watch?v=HtqmEREAPC0&ab_channel=%E7%95%85%E7%9A%84%E7%A7%91%E6%8A%80%E5%B7%A5%E5%9D%8A)
+- [详解RAG(1/2) - YouTube](https://www.youtube.com/watch?v=d5IpPF4jU5k&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
+- [详解RAG(2/2) - YouTube](https://www.youtube.com/watch?v=E09j2jcBT2w&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
 
 ### Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
@@ -110,6 +115,7 @@
 - [jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
 - [人生AI下半場 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20112100/ironman/6072)
 
+### Foudontal
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 ▍基礎
 單神經元+ReLU
