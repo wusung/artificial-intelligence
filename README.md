@@ -86,7 +86,7 @@
 - [GOV-TW/Judicial-OD: 司法院開放資料](https://github.com/GOV-TW/Judicial-OD)
 
 ### Generative AI
-- [(1) 生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
+- [生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
 
 ### Transformer
 - [4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
@@ -120,57 +120,31 @@
 ### Foudontal
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 ▍基礎
-單神經元+ReLU
-https://reurl.cc/xLMWmN
-四個神經元
-https://reurl.cc/77QEz1
-隱藏層
-https://reurl.cc/E4lm9v
-三個輸入
-https://reurl.cc/g4yrVR
-七層/多層感知器(MLP)
-https://reurl.cc/80MeQ7
+[單神經元+ReLU](https://reurl.cc/xLMWmN)
+[四個神經元](https://reurl.cc/77QEz1)
+[隱藏層](https://reurl.cc/E4lm9v)
+[三個輸入](https://reurl.cc/g4yrVR)
+[七層/多層感知器(MLP)](https://reurl.cc/80MeQ7)
 ▍進階
-MoE(Mixture of Experts)模型
-https://reurl.cc/54WXMR
-循環神經網路(Recurrent neural network,RNN)
-https://reurl.cc/K4YE3m
-Mamba模型
-https://reurl.cc/or2mrl
-矩陣乘法
-https://reurl.cc/xLMevb
-LLM採樣
-https://reurl.cc/or2m8v
-多層感知器in Pytorch
-https://reurl.cc/v0OGoj
-反向傳播(Backpropagation)
-https://reurl.cc/qrAa3q
-Transformer架構
-https://reurl.cc/qrAa4q
-批次標準化(Batch Normalization)
-https://reurl.cc/g4yN3N
-生成對抗網路(GAN)
-https://reurl.cc/qrAalD
-自注意力機制(Self Attention)
-https://reurl.cc/WRQzn5
-Dropout
-https://reurl.cc/rrGkmb
-自動編碼器(Autoencoder)
-https://reurl.cc/A4mXx8
-向量資料庫(Vector Database)
-https://reurl.cc/97N0ga
-CLIP模型
-https://reurl.cc/N4dO5e
-ResNet
-https://reurl.cc/M4591K
-圖卷積網路(GCN)
-https://reurl.cc/N4dnj6
-SORA的擴散Transformer(DiT)
-https://reurl.cc/13AM4D
-Gemini的Switch Transformer
-https://reurl.cc/nrdyod
-人類回饋強化學習(RLHF)
-https://reurl.cc/37ERjM
+[MoE(Mixture of Experts)模型](https://reurl.cc/54WXMR)
+[循環神經網路(Recurrent neural network,RNN)](https://reurl.cc/K4YE3m)
+[Mamba模型](https://reurl.cc/or2mrl)
+[矩陣乘法](https://reurl.cc/xLMevb)
+[LLM採樣](https://reurl.cc/or2m8v)
+[多層感知器in Pytorch](https://reurl.cc/v0OGoj)
+[反向傳播(Backpropagation)](https://reurl.cc/qrAa3q)
+[Transformer架構](https://reurl.cc/qrAa4q)
+[批次標準化(Batch Normalization)](https://reurl.cc/g4yN3N)
+[生成對抗網路(GAN)](https://reurl.cc/qrAalD)
+[自注意力機制(Self Attention)](https://reurl.cc/WRQzn5)
+[Dropout](https://reurl.cc/rrGkmb)
+[自動編碼器(Autoencoder)](https://reurl.cc/A4mXx8)
+[向量資料庫(Vector Database)](https://reurl.cc/97N0ga)
+[CLIP模型](https://reurl.cc/N4dO5e)
+[ResNet](https://reurl.cc/M4591K)
+[圖卷積網路(GCN)](https://reurl.cc/N4dnj6)
+[SORA的擴散Transformer(DiT)](https://reurl.cc/13AM4D)
+[Gemini的Switch Transformer](https://reurl.cc/nrdyod)
+[人類回饋強化學習(RLHF)](https://reurl.cc/37ERjM)
 ▍影片
-研究助理Anna Rahn的算法演練
-https://reurl.cc/XqM9d0
+[研究助理Anna Rahn的算法演練](https://reurl.cc/XqM9d0)
