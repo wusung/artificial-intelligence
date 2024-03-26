@@ -118,7 +118,7 @@
 - [jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
 - [人生AI下半場 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20112100/ironman/6072)
 
-### Foudontal
+### Fundamental
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 #### ▍基礎
 - [單神經元+ReLU](https://reurl.cc/xLMWmN)
