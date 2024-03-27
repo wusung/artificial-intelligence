@@ -118,6 +118,11 @@
 - [jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
 - [人生AI下半場 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20112100/ironman/6072)
 
+
+### Deep Learning
+- [Zero to Mastery TensorFlow for Deep Learning](https://dev.mrdbourke.com/tensorflow-deep-learning/)
+
+
 ### Fundamental
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 #### ▍基礎
