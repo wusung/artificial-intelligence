@@ -107,7 +107,9 @@
 - [详解RAG(1/2) - YouTube](https://www.youtube.com/watch?v=d5IpPF4jU5k&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
 - [详解RAG(2/2) - YouTube](https://www.youtube.com/watch?v=E09j2jcBT2w&ab_channel=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%BE%8E)
 - [AnythingLLM：基于RAG方案构专属私有知识库（开源｜高效｜可定制） - 知乎](https://zhuanlan.zhihu.com/p/671853034)
-- [AI数据过时、编造事实、计算不准，怎么办？详解RAG、ReAct、PAL | Demystify RAG, ReAct, PAL for Improving LLM Responses - YouTube](https://www.youtube.com/watch?v=k8qfO1IXBF8&feature=youtu.be)
+- [AI数据过时、编造事实、计算不准，怎么办？详解RAG、ReAct、PAL | Demystify RAG, ReAct, PAL for Improving LLM Responses - YouTube](https://www.youtube.com/watch?v=k8qfO1IXBF8)
+- [RAG技术详解、向量数据库对大模型的作用 #大模型 #向量数据库 - YouTube](https://www.youtube.com/watch?v=dewckt6mBa0&ab_channel=ZOMI%E9%85%B1)
+- 
 
 ### Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
