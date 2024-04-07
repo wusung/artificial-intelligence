@@ -66,6 +66,8 @@
 
 ### Tool
 - [大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
+- [OpenUI：替代前端的AI工具，使用AI聊天构建前端页面，发挥想象力来描述 UI需求实时渲染，将 HTML 转换为 React、Web Components 等 - YouTube](https://www.youtube.com/watch?v=LzsfUch6a4I&ab_channel=AIGCLINK)
+
 
 
 ### LLM
@@ -77,24 +79,26 @@
 - [Creating a Domain Expert LLM: A Guide to Fine-Tuning | HackerNoon](https://hackernoon.com/creating-a-domain-expert-llm-a-guide-to-fine-tuning)
 - [LLM 學習筆記 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121763/ironman/6145)
 - [[Finetuning Large Language Models ] 課程筆記- 為何要微調(Why finetune) - HackMD](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
-- [什麼是 RAG？- 擷取擴增產生說明 - AWS](https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/)
-- [什麼是檢索增強生成？ - NVIDIA 台灣官方部落格](https://blogs.nvidia.com.tw/2023/11/16/what-is-retrieval-augmented-generation/)
-- [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
-- [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
+
+
 
 ### Law LLM
 - [pengxiao-song/LaWGPT: 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LaWGPT)
 - [GOV-TW/Judicial-OD: 司法院開放資料](https://github.com/GOV-TW/Judicial-OD)
 
+
 ### Generative AI
 - [生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
+
 
 ### Transformer
 - [4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
 
+
 ### Application
 - [Raycast](https://www.raycast.com/)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
+
 
 ### Fine Tune
 - [🦙使用自己的数据微调Llama 2 最简单方法 ，Llama 2 “烹饪”食谱，附colab完整笔记 - YouTube](https://www.youtube.com/watch?v=YtHtrkVqxD0&ab_channel=AI%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%8F%91%E7%8E%B0)
@@ -109,7 +113,12 @@
 - [AnythingLLM：基于RAG方案构专属私有知识库（开源｜高效｜可定制） - 知乎](https://zhuanlan.zhihu.com/p/671853034)
 - [AI数据过时、编造事实、计算不准，怎么办？详解RAG、ReAct、PAL | Demystify RAG, ReAct, PAL for Improving LLM Responses - YouTube](https://www.youtube.com/watch?v=k8qfO1IXBF8)
 - [RAG技术详解、向量数据库对大模型的作用 #大模型 #向量数据库 - YouTube](https://www.youtube.com/watch?v=dewckt6mBa0&ab_channel=ZOMI%E9%85%B1)
-- 
+- [什麼是 RAG？- 擷取擴增產生說明 - AWS](https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/)
+- [什麼是檢索增強生成？ - NVIDIA 台灣官方部落格](https://blogs.nvidia.com.tw/2023/11/16/what-is-retrieval-augmented-generation/)
+- [RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器. by SimonLiu | InfuseAI](https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e)
+- [RAG 是什麼？就像是大型語言模型的「小抄」 - INSIDE](https://www.inside.com.tw/article/33991-what_is_rag)
+- [基于Ollama实现100%本地化RAG应用 - ChatOllama - YouTube](https://www.youtube.com/watch?v=x4qPdrgVb_Y&ab_channel=01Coder)
+
 
 ### Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
@@ -127,12 +136,14 @@
 
 ### Fundamental
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
+
 #### ▍基礎
 - [單神經元+ReLU](https://reurl.cc/xLMWmN)
 - [四個神經元](https://reurl.cc/77QEz1)
 - [隱藏層](https://reurl.cc/E4lm9v)
 - [三個輸入](https://reurl.cc/g4yrVR)
 - [七層/多層感知器(MLP)](https://reurl.cc/80MeQ7)
+
 #### ▍進階
 - [MoE(Mixture of Experts)模型](https://reurl.cc/54WXMR)
 - [循環神經網路(Recurrent neural network,RNN)](https://reurl.cc/K4YE3m)
@@ -154,5 +165,6 @@
 - [SORA的擴散Transformer(DiT)](https://reurl.cc/13AM4D)
 - [Gemini的Switch Transformer](https://reurl.cc/nrdyod)
 - [人類回饋強化學習(RLHF)](https://reurl.cc/37ERjM)
+
 #### ▍影片
 - [研究助理Anna Rahn的算法演練](https://reurl.cc/XqM9d0)
