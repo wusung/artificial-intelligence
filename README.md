@@ -67,7 +67,7 @@
 ### Tool
 - [大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
 - [OpenUI：替代前端的AI工具，使用AI聊天构建前端页面，发挥想象力来描述 UI需求实时渲染，将 HTML 转换为 React、Web Components 等 - YouTube](https://www.youtube.com/watch?v=LzsfUch6a4I&ab_channel=AIGCLINK)
-
+- [1Panel-dev/MaxKB: 💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。](https://github.com/1Panel-dev/MaxKB)
 
 
 ### LLM
