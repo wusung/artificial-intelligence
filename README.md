@@ -1,6 +1,6 @@
-# 人工智慧 Artificial Intelligence 資源
+# awesome 人工智慧 Artificial Intelligence
 
-### Machine Learning
+## Machine Learning
 - [Machine Learning HW0](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
 - [Practical Deep Reinforcement Learning](https://github.com/PacktPublishing/Practical-Deep-Reinforcement-Learning)
 - [Learn from ML experts at Google](https://ai.google/education#%3Fmodal_active=none)
@@ -39,38 +39,38 @@
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
 
-### Books
+## Books
 - [大演算：機器學習的終極演算法將如何改變我們的未來，創造新紀元的文明？](http://www.books.com.tw/products/0010722761)
 
 
-### Machine Learning Algorithms
+## Machine Learning Algorithms
 - [Machine Learning Algorithms For Beginners with Code Examples in Python](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 - [称霸Kaggle的九大深度学习炼丹技巧 - 知乎](https://zhuanlan.zhihu.com/p/518189935)
 
-### Deep Learning
+## Deep Learning
 - [Stanford University CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
 
 
-### Framework
+## Framework
 - [史上最全PyTorch资源汇总：教程、实战、必读论文、中文教材一应俱全](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
 - [机器学习社区-专注分享学术论文、机器学习、人工智能、Python](https://www.zhihu.com/column/c_1320399205467795456)
 - [2022年了，PyTorch和TensorFlow你选哪个？](https://blog.csdn.net/cainiao_python/article/details/122053331)
 
 
-### Reference
+## Reference
 - [现在有哪些讨论深度学习、机器学习的论坛推荐？ - 知乎](https://www.zhihu.com/question/268499673)
 - [人工智能 - 知乎](https://www.zhihu.com/topic/19551275/hot)
 - [机器学习 - 知乎](https://www.zhihu.com/topic/19559450/hot)
 - [强烈推荐，B站最强学习资源汇总（数据科学，机器学习，python） - 知乎](https://zhuanlan.zhihu.com/p/225901714)
 - [值得推荐！这10个 Github 项目简直太香了！ - 知乎](https://zhuanlan.zhihu.com/p/466851139)
 
-### Tool
+## Tool
 - [大模型也玩无服务？助力企业构建AI应用。 - YouTube](https://www.youtube.com/watch?v=KIyPnXgKmC8&list=PLEOQ5eGYlPSyvUTQLJVOD_BIKXWMQx-A2&ab_channel=%E9%8C%A2%E5%BE%97%E6%A8%82%E7%8E%A9%E8%B5%9AAI)
 - [OpenUI：替代前端的AI工具，使用AI聊天构建前端页面，发挥想象力来描述 UI需求实时渲染，将 HTML 转换为 React、Web Components 等 - YouTube](https://www.youtube.com/watch?v=LzsfUch6a4I&ab_channel=AIGCLINK)
 - [1Panel-dev/MaxKB: 💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。](https://github.com/1Panel-dev/MaxKB)
 
 
-### LLM
+## LLM
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
 - [垂直领域大模型的思考 - 知乎](https://zhuanlan.zhihu.com/p/652645925)
 - [你必须要知道CNN模型：ResNet - 知乎](https://zhuanlan.zhihu.com/p/31852747)
@@ -79,32 +79,35 @@
 - [Creating a Domain Expert LLM: A Guide to Fine-Tuning | HackerNoon](https://hackernoon.com/creating-a-domain-expert-llm-a-guide-to-fine-tuning)
 - [LLM 學習筆記 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121763/ironman/6145)
 - [[Finetuning Large Language Models ] 課程筆記- 為何要微調(Why finetune) - HackMD](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
+- [从 NLP 到 LLM - 知乎](https://www.zhihu.com/column/c_1465775160745324544)
 
 
-
-### Law LLM
+## Law LLM
 - [pengxiao-song/LaWGPT: 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型](https://github.com/pengxiao-song/LaWGPT)
+
+
+## Data
 - [GOV-TW/Judicial-OD: 司法院開放資料](https://github.com/GOV-TW/Judicial-OD)
 
 
-### Generative AI
+## Generative AI
 - [生成式AI学习 - YouTube](https://www.youtube.com/playlist?list=PLiuLMb-dLdWJPpybrCYNhi6D9Vd4vz16i)
 
 
-### Transformer
+## Transformer
 - [4分钟详细揭密！Sora视频生成模型原理 - YouTube](https://www.youtube.com/watch?v=J0h9CWWi204&feature=youtu.be)
 
 
-### Application
+## Application
 - [Raycast](https://www.raycast.com/)
 - [Hugging Face – The AI community building the future.](https://huggingface.co/)
 
 
-### Fine Tune
+## Fine Tune
 - [🦙使用自己的数据微调Llama 2 最简单方法 ，Llama 2 “烹饪”食谱，附colab完整笔记 - YouTube](https://www.youtube.com/watch?v=YtHtrkVqxD0&ab_channel=AI%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%8F%91%E7%8E%B0)
 
 
-### RAG
+## RAG
 - [Introduction | Ragas](https://docs.ragas.io/en/stable/index.html)
 - [提示词、RAG、微调哪个会让大模型表现更好？1、实践中如何选择微调、rag、提示词工程2、提示词工程使用方式3、RAG VS 微调 4、rag评估框架rags：rags5、微调好处及微调实践场景用例 - YouTube](https://www.youtube.com/watch?v=P1iob2uKFrg&ab_channel=AIGCLINK)
 - [【OLLAMA+Langchain】RAG框架详解，RAG和Ollama本地大模型应用方法分享。利用本地大模型搭建私人助理。不用Fine-tuning就能实时更新大语言模型的数据库。 - YouTube](https://www.youtube.com/watch?v=HtqmEREAPC0&ab_channel=%E7%95%85%E7%9A%84%E7%A7%91%E6%8A%80%E5%B7%A5%E5%9D%8A)
@@ -120,31 +123,35 @@
 - [基于Ollama实现100%本地化RAG应用 - ChatOllama - YouTube](https://www.youtube.com/watch?v=x4qPdrgVb_Y&ab_channel=01Coder)
 
 
-### Prompt 
+## Prompt 
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs?tab=readme-ov-file)
 
 
-### Other
+## Other
 - [clovaai/donut: Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022](https://github.com/clovaai/donut)
 - [jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/jaywalnut310/vits)
 - [人生AI下半場 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20112100/ironman/6072)
 
 
-### Deep Learning
+## Deep Learning
 - [Zero to Mastery TensorFlow for Deep Learning](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 
-### Fundamental
+## Chat & Trend
+[How AI Is Unlocking the Secrets of Nature and the Universe | Demis Hassabis | TED - YouTube](https://www.youtube.com/watch?v=0_M_syPuFos&ab_channel=TED)
+
+
+## Fundamental
 以下就是Tom老師的心血結晶(LinkedIn文章)，大家快收好，更重要的，自己得空動手玩玩！
 
-#### ▍基礎
+### ▍基礎
 - [單神經元+ReLU](https://reurl.cc/xLMWmN)
 - [四個神經元](https://reurl.cc/77QEz1)
 - [隱藏層](https://reurl.cc/E4lm9v)
 - [三個輸入](https://reurl.cc/g4yrVR)
 - [七層/多層感知器(MLP)](https://reurl.cc/80MeQ7)
 
-#### ▍進階
+### ▍進階
 - [MoE(Mixture of Experts)模型](https://reurl.cc/54WXMR)
 - [循環神經網路(Recurrent neural network,RNN)](https://reurl.cc/K4YE3m)
 - [Mamba模型](https://reurl.cc/or2mrl)
@@ -166,5 +173,5 @@
 - [Gemini的Switch Transformer](https://reurl.cc/nrdyod)
 - [人類回饋強化學習(RLHF)](https://reurl.cc/37ERjM)
 
-#### ▍影片
+### ▍影片
 - [研究助理Anna Rahn的算法演練](https://reurl.cc/XqM9d0)
