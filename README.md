@@ -105,6 +105,7 @@
 
 ## Fine Tune
 - [🦙使用自己的数据微调Llama 2 最简单方法 ，Llama 2 “烹饪”食谱，附colab完整笔记 - YouTube](https://www.youtube.com/watch?v=YtHtrkVqxD0&ab_channel=AI%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%8F%91%E7%8E%B0)
+- [Windows下中文微调Llama3，单卡8G显存只需5分钟，模型可接入GPT4All、Ollama，实现CPU推理聊天，附Colab一键训练脚本。 - YouTube](https://www.youtube.com/watch?v=LPmI-Ok5fUc&ab_channel=AI%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%8F%91%E7%8E%B0)
 
 
 ## RAG
