@@ -80,6 +80,7 @@
 - [LLM 學習筆記 :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20121763/ironman/6145)
 - [[Finetuning Large Language Models ] 課程筆記- 為何要微調(Why finetune) - HackMD](https://hackmd.io/@YungHuiHsu/HJ6AT8XG6)
 - [从 NLP 到 LLM - 知乎](https://www.zhihu.com/column/c_1465775160745324544)
+- [Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course)
 
 
 ## Law LLM
