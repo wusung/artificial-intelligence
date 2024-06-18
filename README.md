@@ -38,6 +38,9 @@
 - [腾讯AI Lab开源大规模高质量中文词向量数据，800万中文词随你用](https://ai.tencent.com/ailab/zh/news/detial/?id=22)
 - [github 專案介紹 – Python 範例：透過互動式的 Jupyter 和數學解釋流行的機器學習演算法](https://softnshare.com/github-machine-learning-octave/?fbclid=IwAR1ZZ9W9C0HhGS3-QDccFoBBQcUiw1qjYVK_Jbwupu_eGtiXsSO3P0t0wpU)
 - [动手学深度学习](https://github.com/d2l-ai/d2l-zh?fbclid=IwAR0DmrRo4Kgp_-JwvDWCvKWt3moKd2V2QHjPqJ9NC9VprmT01SrvEN_kw58)
+- [我花了一年时间来学机器学习](https://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg?)
+- [机器学习的数学基础：向量篇 | HaHack](https://www.hahack.com/math/math-vector/?hmsr=toutiao.io)
+- [The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog](https://blogs.nvidia.com/blog/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 ## Books
 - [大演算：機器學習的終極演算法將如何改變我們的未來，創造新紀元的文明？](http://www.books.com.tw/products/0010722761)
